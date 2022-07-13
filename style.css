@@ -1,0 +1,42 @@
+@charset "utf-8";
+
+#musk {
+    float: left;
+    margin: 0 50px 0 0;
+}
+
+body {
+    max-width: 1200px;
+    margin:auto;
+    background-color:rgb(243, 245, 222);
+}
+
+p {
+    font-size: 25px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 80px;
+    color: rgb(82, 116, 161);
+}
+
+.gallery {
+    text-align: center;
+}
+
+#quote {
+    font-size: 40px;
+}
+
+#photos {
+    font-size: 50px;
+    text-align: center;
+    color: rgb(82, 116, 161);
+}
+
+#cited {
+    font-size: 50px;
+    text-align: center;
+    color: rgb(82, 116, 161);
+}
